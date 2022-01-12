@@ -134,12 +134,15 @@ html{
     border: 2px solid #a52a2a;
   display: flex;
   justify-content:center;
+  flex-wrap: wrap;
+  
 }
 #Chinese{
     border: 2px solid brown;
     margin: 25px;
     padding: 20px;
     width: 18%;
+    flex-wrap: wrap;
 
     
 }
@@ -148,6 +151,7 @@ html{
     margin: 25px;
     padding: 20px;
     width: 18%;
+    flex-wrap: wrap;
 
 }
 #Non-veg{
@@ -155,13 +159,14 @@ html{
     margin: 25px;
     padding: 20px;
     width: 18%;
-
+    flex-wrap: wrap;
 }
 #menu2{
     background-color: rgba(250, 126, 77, 0.452);
     border: 2px solid #a52a2a;
   display: flex;
   justify-content:center;
+  flex-wrap: wrap;
   
 }
 
